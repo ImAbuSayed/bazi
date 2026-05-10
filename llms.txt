@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bazi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bazi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bazi/) |
+| **Get License** | [Commercial Licensing for Bazi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bazi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1216)
 
 ---
 
