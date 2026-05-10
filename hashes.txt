@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bazi
+
+This log tracks the cryptographic history and versioning for the song **Bazi** (bazi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T08:22:54.335591 | `v1` | `e566816b9fff4c60158d2a092d054df66d05a8b7e76df118632ee6ea48ee71b9` | `e8a00b3cef6286c734c6effd0037cad5a6a7b39db91f963fee610f266ee3fd1f` | `2026-05-10_bazi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
